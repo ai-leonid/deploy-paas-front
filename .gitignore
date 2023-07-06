@@ -1,0 +1,7 @@
+node_modules
+db.json
+dist
+
+.idea/
+.vs/
+.DS_Store
