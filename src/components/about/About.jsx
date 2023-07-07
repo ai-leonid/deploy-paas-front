@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import video_about from '../../../dist/assets/about-4c096b98.mp4'
+// import video_about from '../../../dist/assets/about-4c096b98.mp4'
 import './About.scss'
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
 				data-aos='fade-right'
 				data-aos-delay='300'
 			>
-				<video src={video_about} muted autoPlay loop className='video'></video>
+				{/*<video src={video_about} muted autoPlay loop className='video'></video>*/}
 			</div>
 			<div className='content' data-aos='fade-left' data-aos-delay='600'>
 				<span>Кто мы ?</span>
